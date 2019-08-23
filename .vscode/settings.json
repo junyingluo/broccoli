@@ -1,0 +1,24 @@
+{
+    "eslint.validate": [
+        {
+            "language": "javascript",
+            "autoFix": true
+        },
+        "javascriptreact",
+        "html",
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        },
+    ],
+    "eslint.workingDirectories": [
+        "./src",
+    ],
+    "editor.formatOnSave": true,
+    "eslint.autoFixOnSave": true,
+    "editor.fontSize": 14
+}
